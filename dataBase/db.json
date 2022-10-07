@@ -1,0 +1,31 @@
+{
+     "movies": [
+    { "id": 1,
+      "title": "film1",
+    "description": "Lorem ipsum dolor sit ament, consectetur dehiscing Elia, sed do lsmod tempera incididunt ut labore ",
+    "posterURL": "https://www.youtube.com/",
+    "rating": 2.3,
+    "Trailer":"https://www.youtube.com/watch?v=gRUzFnTX2HE"
+  },
+{ "id": 2,
+"title": "film2",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ",
+"posterURL": "https://www.youtube.com/",
+"rating": 2.4,
+"Trailer":"https://www.youtube.com/watch?v=89JWRYEIG-s"
+},
+{ "id": 3,
+"title": "Movie",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ",
+"posterURL": "https://www.youtube.com/",
+"rating": 5.3,
+"Trailer":"https://www.youtube.com/watch?v=TN9vz4NICvs"
+},
+{ "id": 4,
+"title": "yout",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ",
+"posterURL": "https://www.youtube.com/",
+"rating": 5.3,
+"Trailer":"https://www.youtube.com/watch?v=_Z3QKkl1WyM"
+}]
+}

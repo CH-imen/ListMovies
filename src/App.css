@@ -1,12 +1,57 @@
 .App {
   text-align: center;
 }
+h1.titre1 {
+  text-align: center;
+  color: #ba45b3;
+  margin: 30px 0;
+}
+h2.titre1 {
+  text-align: center;
+  color: #ba45b3;
+  margin: 30px 0;
+}
+form {
+  margin: 26px 0;
+}
+input[type="search"] {
+  margin: 30px 0;
+  background: #ba45b363;
+  border: 1px solid #0a090a;
+}
+.card {
+  margin: 10px 0;
+}
+.card-Body {
+  margin: 10px 0;
 
+}
+.card-Body:hover {
+
+  background: #a9a8a8;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+button {
+  width: 15%;
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: #ba45b3;
+  color: #fff;
+  border: 1px solid #ba45b3;
+}
+button:hover {
 
+  background-color: #766f75;
+  color: #fff;
+
+}
+input[type="text"] {
+  border-radius: 5px;
+  margin: 0 5px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
